@@ -3,19 +3,14 @@
 This repo is a common reference for my work with automation.
 
 
-## My Repos
+## My Scripts
 
-### Automation on macOS
+- [Automation on macOS with JXA (JavaScript for Automation)](https://github.com/cvknage/Automation-macOS-JXA)
 
-- [Automation with JXA (JavaScript for Automation)](https://github.com/cvknage/Automation-macOS-JXA)
-
-
-### Automation on iOS
-
-- [Automation with the Scriptable App](https://github.com/cvknage/Automation-iOS-Scriptable)
+- [Automation on iOS with the Scriptable App](https://github.com/cvknage/Automation-iOS-Scriptable)
 
 
-## External Soources
+## External Resources
 
 - [Mac Automation Scripting Guide](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html#//apple_ref/doc/uid/TP40016239-CH56-SW1)
 
